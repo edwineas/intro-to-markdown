@@ -13,3 +13,7 @@
 $ git init
 Reinitialized existing Git repository in /path/to/your/repo/.git/
 ```
+
+- [x] Choose destination
+- [x] Research activities
+- [ ] Make packing list
